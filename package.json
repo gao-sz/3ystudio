@@ -1,5 +1,5 @@
 {
-    "name": "gzt-web",
+    "name": "3ystudio-web",
     "version": "2.0",
     "private": true,
     "license": "MIT",
@@ -8,7 +8,8 @@
         "build": "next build",
         "start": "next start",
         "lint": "next lint",
-        "postbuild": "next-sitemap"
+        "postbuild": "next-sitemap",
+        "deploy": "gh-pages -d out"
     },
     "dependencies": {
         "@tanstack/react-query": "^4.13.0",

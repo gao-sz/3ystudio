@@ -3,7 +3,7 @@ const nextConfig = {
     reactStrictMode: true,
     swcMinify: true,
     images: {
-        domains: ["assets.genztechies.com"]
+        domains: ["https://3ystudio.vercel.app"]
     },
     env: {
         EMAIL_PASSWORD: process.env.EMAIL_PASSWORD || "123456"

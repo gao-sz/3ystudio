@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://www.genztechies.com/
+Host: https://3ystudio.github.io/
 
 # Sitemaps
-Sitemap: https://www.genztechies.com/sitemap.xml
+Sitemap: https://3ystudio.github.io/sitemap.xml
